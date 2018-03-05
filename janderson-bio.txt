@@ -5,4 +5,5 @@ Start: May 1, 2017
 
 Exprienced softeare instructor with deep knowledge of the following software products:
 	• Microsoft C#.NET
+	• SQL Server
 	• Git & GitHub
